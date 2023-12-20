@@ -1,0 +1,41 @@
+﻿<Window x:Class="bartolucci.alessandro._4i.SM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bartolucci.alessandro._4i.SM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="textBoxWelcome" Grid.Row="0" HorizontalAlignment="Stretch" Height="60" Margin="20,10" Background="#4CAF50" Foreground="White" Text="Benvenuto, se vuoi giocare clicca sul pulsante &quot;Spin&quot;" VerticalAlignment="Top" Width="456" FontSize="18"/>
+
+        <Grid x:Name="Slot" Grid.Row="1" Height="100">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="textBoxLett1" Grid.Column="0" Width="180" HorizontalAlignment="Stretch" Margin="20,10,20,20" FontSize="36" />
+            <TextBox x:Name="textBoxLett2" Grid.Column="1" Width="180" HorizontalAlignment="Stretch" Margin="20,10,20,20" FontSize="36" />
+            <TextBox x:Name="textBoxLett3" Grid.Column="2" Width="180" HorizontalAlignment="Stretch" Margin="20,10,20,20" FontSize="36" />
+            <Button Content="Spin" Grid.Column="3" Name="Spin" Grid.Row="4" HorizontalAlignment="Stretch" Margin="20,10" Width="auto" Height="auto" Foreground="Black" FontSize="24" Click="Spin_Click"/>
+            <CheckBox x:Name="checkBoxStopSimb1" Content="Stop Simbolo 1" Grid.Column="0" Width="180" HorizontalAlignment="Stretch" Margin="20,5" VerticalAlignment="Bottom" Checked="checkBoxStopSimb1_Checked" Unchecked="checkBoxStopSimb1_Unchecked"/>
+            <CheckBox x:Name="checkBoxStopSimb2" Content="Stop Simbolo 2" Grid.Column="1" Width="180" HorizontalAlignment="Stretch" Margin="20,5" VerticalAlignment="Bottom" Checked="checkBoxStopSimb2_Checked" Unchecked="checkBoxStopSimb2_Unchecked"/>
+            <CheckBox x:Name="checkBoxStopSimb3" Content="Stop Simbolo 3" Grid.Column="2" Width="180" HorizontalAlignment="Stretch" Margin="20,5" VerticalAlignment="Bottom" Checked="checkBoxStopSimb3_Checked" Unchecked="checkBoxStopSimb3_Unchecked"/>
+
+        </Grid>
+
+        <TextBox x:Name="textBoxResult" Grid.Row="2" HorizontalAlignment="Right" Margin="20,10" Background="Gold" Foreground="White" Text="" VerticalAlignment="Top" Width="300" Height="60" FontSize="18"/>
+        <TextBox x:Name="textBoxCredits" Grid.Row="2" HorizontalAlignment="Left" Margin="20,10" Text="" VerticalAlignment="Top" Width="300" Height="60" FontSize="18"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bartolucci.alessandro.4i.SlotMachine/1.0.0": {
+        "dependencies": {
+          "SlotMachineLib": "1.0.0"
+        },
+        "runtime": {
+          "bartolucci.alessandro.4i.SlotMachine.dll": {}
+        }
+      },
+      "SlotMachineLib/1.0.0": {
+        "runtime": {
+          "SlotMachineLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bartolucci.alessandro.4i.SlotMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SlotMachineLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
