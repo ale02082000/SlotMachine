@@ -1,0 +1,12 @@
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\bin\Debug\net6.0\SlotMachineLib.deps.json
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\bin\Debug\net6.0\SlotMachineLib.dll
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\bin\Debug\net6.0\SlotMachineLib.pdb
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\SlotMachineLib.csproj.AssemblyReference.cache
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\SlotMachineLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\SlotMachineLib.AssemblyInfoInputs.cache
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\SlotMachineLib.AssemblyInfo.cs
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\SlotMachineLib.csproj.CoreCompileInputs.cache
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\SlotMachineLib.dll
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\refint\SlotMachineLib.dll
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\SlotMachineLib.pdb
+C:\Users\studente.ITTSBELLUZZIDAV\Desktop\SlotMachineLib\obj\Debug\net6.0\ref\SlotMachineLib.dll
