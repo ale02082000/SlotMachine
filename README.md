@@ -5,7 +5,8 @@
 - Realizzare un programma Console che usa la stessa libreria di classi
  ***
 *** 
-<img src="https://github.com/ale02082000/SlotMachine/assets/127590077/d87c6cf3-6375-4dbf-9746-45cacd1a1763">
+<img src="https://github.com/ale02082000/SlotMachine/assets/127590077/47dd18a9-3e04-4580-be4b-7f0dd95431c9">
+
 ***
 
 
