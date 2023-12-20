@@ -4,7 +4,7 @@
 - Realizzare un programma WPF che usa la libreria di classi
 - Realizzare un programma Console che usa la stessa libreria di classi
  ***
-***
+*** 
 <img src="https://github.com/ale02082000/SlotMachine/assets/127590077/d87c6cf3-6375-4dbf-9746-45cacd1a1763">
 ***
 
